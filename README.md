@@ -1,28 +1,29 @@
-# 🐍 Jesubiblia de Python
+# 🐍 La Santa Jesubiblia de Python
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
 
-> 🌈 Bienvenidinchi a este repo!!
+> 🌈 ¡Bienvenidinchi a este santuario del saber!
 
-Fundamentos y proyectos en Python tallados en código sagrado por voz y obra de nuestra `deidad Jesubuntu`.
-Que la paz esté contigo (y con tu codigo) 🙏🏻
+Aquí yacen los fundamentos y proyectos en Python, tallados en código sagrado por voz, gracia y obra de nuestra `deidad Jesubuntu`.
 
----
-
-## 🚀 Requisitos previos
-
-- 🧃 Motivación y curiosidad (lo demás lo hacemos juntibiris paso a paso).  
-- 💻 **IDE recomendado:** Usaremos [VSC](https://code.visualstudio.com) por recomendación de nuestra deidad 💅🏻 Junto al paquete de [python](https://www.python.org/downloads/).
+Que la paz, la buena indentación y la ausencia de errores de sintaxis estén contigo 🙏🏻✨.
 
 ---
 
-# 📂 Estructura del repositorio
+## 🚀 Los Mandamientos Previos (Requisitos)
 
-| 📁 Carpeta | 📝 Contenido | 📊 Estado |
+- 🧃 **Fe y Curiosidad:** La motivación es el motor del alma (lo demás lo hacemos juntibiris paso a paso).  
+- 💻 **El Templo de Trabajo (IDE recomendado):** Usaremos [VSC](https://code.visualstudio.com) por revelación directa de nuestra deidad 💅🏻. Todo esto ungido con el paquete oficial de [Python](https://www.python.org/downloads/).
+
+---
+
+# 📂 El Índice de las Sagradas Escrituras
+
+| 📁 El Libro | 📝 Las Enseñanzas | 📊 Estado de la Profecía |
 | :--- | :--- | :--- |
-| [`0. Repaso de Fundamentos`](./0.%20Repaso%20de%20Fundamentos/) | Conceptos base: variables, operadores y control de flujo | ⏳ En progreso constante |
+| [`0. Génesis de los Fundamentos`](./0.%20Genesis%20de%20los%20Fundamentos/) | La creación del código: variables, operadores y el libre albedrío del control de flujo. | ⏳ Revelándose constantemente |
 
 ---
 
-🧩 Este repositorio seguirá creciendo con nuevos módulos y ejemplos aplicados.  
-💚 Hecho con cariño, apoyo de nuestro profe y solecito de Cádiz.
+🧩 Este tomo sagrado seguirá expandiéndose con nuevos salmos y ejemplos terrenales.  
+💚  Hecho con fé, apoyo de nuestro profe y solecito de Cádiz.
