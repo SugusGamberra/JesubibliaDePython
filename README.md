@@ -21,7 +21,9 @@ Que la paz, la buena indentación y la ausencia de errores de sintaxis estén co
 
 | 📁 El Libro | 📝 Las Enseñanzas | 📊 Estado de la Profecía |
 | :--- | :--- | :--- |
-| [`0. Génesis de los Fundamentos`](./0.%20Genesis%20de%20los%20Fundamentos/) | La creación del código: variables, operadores y el libre albedrío del control de flujo. | ⏳ Revelándose constantemente |
+| [`0. Génesis de los Fundamentos`](./0.%20Genesis%20de%20los%20Fundamentos/) | La creación del código: variables, operadores y el libre albedrío del control de flujo. | ✅ |
+| [`1. Las Parábolas del Código`](./1.%20Las%20Parábolas%20del%20Código/) | Ejemplos terrenales para aplicar la sabiduría divina a los problemas del día a día. | ✅ |
+| [`Esperando el próximo mandamiento de Jesubumtu Deidad`] | Los misterios quedarán resueltos cuando nuestra deidad todopoderosa alce la voz | ⏳ Revelándose constantemente |
 
 ---
 
